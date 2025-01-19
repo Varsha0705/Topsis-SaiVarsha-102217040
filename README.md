@@ -11,7 +11,7 @@
 You can install the package directly from PyPI using pip:
 
 ```bash
-pip install Topsis-SaiVarsha-102217040
+pip install Topsis-SaiVarsha-102217040==1.0.1
 ```
 
 ---
